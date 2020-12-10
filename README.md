@@ -1,6 +1,6 @@
 <!-- Your title -->
 
-## Hi, I'm Ari Bambang, a Developer 🚀 from Indonesia.
+## Hi, I'm Ari Bambang Kurniawan, a Developer 🚀 from Indonesia.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
