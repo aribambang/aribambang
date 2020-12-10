@@ -76,7 +76,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aribambang&repo=kurapika" />
   </a>
 
-
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
 
-⭐️ From [onimur](https://github.com/onimur)
+⭐️ From [aribambang](https://github.com/aribambang)
